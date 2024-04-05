@@ -28,11 +28,6 @@
       "value": "",
       "required": false
     },
-    "HEROKU_APP_NAME": {
-      "description": "اســـم التطبيـــق - نفـس اول مربـع بالقائمـة نسـخ لصـق حـروف انكلـش صغيـره",
-      "value": "",
-      "required": false
-    }
   },
   "addons": [{
     "plan": "heroku-postgresql",
