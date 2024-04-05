@@ -28,10 +28,10 @@
       "value": "",
       "required": false
     },
-    "HEROKU_APP_NAME": {
+    "admin": {
       "description": "اســـم التطبيـــق - نفـس اول مربـع بالقائمـة نسـخ لصـق حـروف انكلـش صغيـره",
       "value": "",
-      "required": false
+      "required": true
     }
   },
   "addons": [{
