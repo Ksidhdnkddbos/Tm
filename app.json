@@ -7,7 +7,7 @@
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
-    "APP_ID": {
+    "API_ID": {
       "description": "كـود ايبي ايـدي〔 App id 〕لا تغيرهـا",
       "value": "27455984"
     },
@@ -20,7 +20,7 @@
       "value": "",
       "required": false
     },
-    "TG_BOT_TOKEN": {
+    "token": {
       "description": "تـــوكـــن البـــوت - من بـوت فـاذر〔 @Botfather 〕..",
       "value": ""
     },
