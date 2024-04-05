@@ -9,20 +9,15 @@
   "env": {
     "API_ID": {
       "description": "كـود ايبي ايـدي〔 App id 〕لا تغيرهـا",
-      "value": "27455984"
+      "value": "22256614"
     },
     "API_HASH": {
       "description": "كـود ايبي هـاش〔 Api hash 〕..لا تغيرهـا",
-      "value": "62d5f68ce2e9189636967120220f5755"
-    },
-    "STRING_SESSION": {
-      "description": "كـــود تيـــرمكـــس - الكـود الكبيـر مـن بـوت تيرمكــس",
-      "value": "",
-      "required": false
+      "value": "4f9f53e287de541cf0ed81e12a68fa3b"
     },
     "token": {
       "description": "تـــوكـــن البـــوت - من بـوت فـاذر〔 @Botfather 〕..",
-      "value": ""
+      "value": "6613752407:AAHjIoha9fmuTbiDPNs7Li9bxTwchFHmloo"
     },
     "admin": {
       "description": "اســـم التطبيـــق - نفـس اول مربـع بالقائمـة نسـخ لصـق حـروف انكلـش صغيـره",
