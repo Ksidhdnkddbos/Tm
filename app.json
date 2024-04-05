@@ -28,7 +28,7 @@
         "description": "اكتب ايدي الادمن",
         "value": "",
         "required": true
-      }
+    }
   },
   "addons": [{
     "plan": "heroku-postgresql",
