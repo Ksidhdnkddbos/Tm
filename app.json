@@ -20,9 +20,9 @@
       "value": ""
     },
     "admin": {
-        "description": "اكتب ايدي الادمن",
-        "value": "",
-        "required": true
+    "description": "اكتب ايدي الادمن",
+    "value": "",
+    "required": true
       
     }
     "TG_BOT_TOKEN": {
