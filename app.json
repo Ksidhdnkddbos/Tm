@@ -26,6 +26,7 @@
     "STRING_SESSION": {
       "description": "هنا ضع كود التيرمكس أو كود البايروجرام الخاص بك",
       "value": ""
+      "required": false
     },
     "HEROKU_API_KEY": {
       "description": "هنا ضع الايبي كي الخاص بحساب هيروكو من هذا الرابط https://dashboard.heroku.com/account",
