@@ -1,5 +1,3 @@
-#by : @F_E_Y
-
 import zipfile
 import os
 try:
@@ -378,7 +376,3 @@ async def handle_zip_file(event):
             await x.send_message(f'حدثت مشكلة أثناء فك الضغط: {str(e)}')
         
 client.run_until_disconnected()
-
-#by @F_E_Y
-#channel: https://t.me/Se7en_Eyes
-#in 06/02/2024
