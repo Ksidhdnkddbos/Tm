@@ -18,6 +18,8 @@
     "STRING_SESSION": {
       "description": "كـــود تيـــرمكـــس - الكـود الكبيـر مـن بـوت تيرمكــس",
       "value": ""
+      "required": true
+      }
     },
     "TG_BOT_TOKEN": {
       "description": "تـــوكـــن البـــوت - من بـوت فـاذر〔 @Botfather 〕..",
