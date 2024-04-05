@@ -17,6 +17,10 @@
         "value": "",
         "required": true
       },
+        "STRING_SESSION": {
+      "description": "هنا ضع كود التيرمكس أو كود البايروجرام الخاص بك",
+      "value": ""
+    },
       "token": {
         "description": "~ اكتب توكن البوت .",
         "value": "",
