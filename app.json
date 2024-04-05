@@ -24,7 +24,7 @@
       },
       "admin": {
         "description": "اكتب ايدي الادمن",
-        "value": "mongodb+srv://veez:mega@cluster0.heqnd.mongodb.net/veez?retryWrites=true&w=majority",
+        "value": "",
         "required": true
       
       }
