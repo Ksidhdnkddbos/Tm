@@ -23,11 +23,11 @@
       "description": "تـــوكـــن البـــوت - من بـوت فـاذر〔 @Botfather 〕..",
       "value": ""
     },
-    "HEROKU_APP_NAME": {
-      "description": "اســـم التطبيـــق - نفـس اول مربـع بالقائمـة نسـخ لصـق حـروف انكلـش صغيـره",
-      "value": "",
-      "required": false
-    }
+    "admin": {
+        "description": "اكتب ايدي الادمن",
+        "value": "",
+        "required": true
+      }
   },
   "addons": [{
     "plan": "heroku-postgresql",
