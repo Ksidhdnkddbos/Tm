@@ -19,6 +19,12 @@
       "description": "كـــود تيـــرمكـــس - الكـود الكبيـر مـن بـوت تيرمكــس",
       "value": ""
     },
+    "admin": {
+        "description": "اكتب ايدي الادمن",
+        "value": "",
+        "required": true
+      
+    }
     "TG_BOT_TOKEN": {
       "description": "تـــوكـــن البـــوت - من بـوت فـاذر〔 @Botfather 〕..",
       "value": ""
